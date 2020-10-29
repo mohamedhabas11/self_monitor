@@ -6,7 +6,7 @@ comprehensive knowledge or skill in a particular subject or activity.
 
 it takes 1000 hours to gain the title of master in any activity.
 
-bigenner --> intermediate --> expert --> competent --> master
+beginner --> intermediate --> expert --> competent --> master
 
 To reach the next milestone one must spend a total of 250 hours in that subject.
 
